@@ -38,3 +38,5 @@ esac
 
 # Display the result
 echo "Result: $result"
+
+#This Calculator was created by Charles
